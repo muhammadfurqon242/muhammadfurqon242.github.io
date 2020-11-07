@@ -102,8 +102,8 @@ header.sticky ul li a {
 
     .banner {
         position: relative;
-        width: 100vh;
-        height: 50vh;
+        width: 115vh;
+        height: 60vh;
         background: url(bg.jpg);
         background-size: cover;
     }
@@ -165,7 +165,7 @@ header.sticky ul li a {
 
     .banner {
         position: relative;
-        width: 90vh;
+        width: 86vh;
         height: 50vh;
         background: url(bg.jpg);
         background-size: cover;
@@ -210,7 +210,7 @@ header.sticky ul li a {
         box-shadow: 1px 1px 1px 1px white;
     }
 
-    header.sticky ul li a {
+    header.sticky ul li a , header ul li a{
         left: 35px;
     }
 
