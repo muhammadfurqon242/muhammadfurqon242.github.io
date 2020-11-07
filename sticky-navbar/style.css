@@ -165,8 +165,8 @@ header.sticky ul li a {
 
     .banner {
         position: relative;
-        width: 60vh;
-        height: 30vh;
+        width: 90vh;
+        height: 50vh;
         background: url(bg.jpg);
         background-size: cover;
     }
